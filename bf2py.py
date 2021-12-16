@@ -35,10 +35,10 @@ except Exception:
 VALID_CHARS = '+-<>[].,'
 
 CODE_LINES = {
-    '+': '%TABarray[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE',
-    '-': '%TABarray[pointer] = (array[pointer] - 1) % CELL_MAX_VALUE',
-    '>': '%TABpointer = (pointer + 1) % ARRAY_LENGTH',
-    '<': '%TABpointer = (pointer - 1) % ARRAY_LENGTH',
+    '+': '%TABarray[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1',
+    '-': '%TABarray[pointer] = CELL_MAX_VALUE - 1 if array[pointer] == 0 else array[pointer] - 1',
+    '>': '%TABpointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1',
+    '<': '%TABpointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1',
     '.': '%TABoutput.append(chr(array[pointer]))',
     ',': "%TABvalue = input(f'Current output : {\"\".join(output)} | Input character : ')\n%TABarray[pointer] = 0 if value == '' else (int(value[1:]) if value.startswith('\\\\') else ord(value[0]))",
     '[': '%TAB\n%TABwhile array[pointer] > 0:',
