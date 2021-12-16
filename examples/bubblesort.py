@@ -8,13 +8,13 @@ output = []
 pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
 pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
 value = input(f'Current output : {"".join(output)} | Input character : ')
-array[pointer] = 0 if value == '' else (int(value[1:]) if value.startswith('\\') else ord(value[0]))
+array[pointer] = 0 if value == '' else (int(value[1:]) if value.startswith('\\') and value[1:].isnumeric() else ord(value[0]))
 
 while array[pointer] > 0:
     pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
     pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
     value = input(f'Current output : {"".join(output)} | Input character : ')
-    array[pointer] = 0 if value == '' else (int(value[1:]) if value.startswith('\\') else ord(value[0]))
+    array[pointer] = 0 if value == '' else (int(value[1:]) if value.startswith('\\') and value[1:].isnumeric() else ord(value[0]))
     
 pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
 pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1

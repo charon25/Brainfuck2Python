@@ -40,7 +40,7 @@ CODE_LINES = {
     '>': '%TABpointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1',
     '<': '%TABpointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1',
     '.': '%TABoutput.append(chr(array[pointer]))',
-    ',': "%TABvalue = input(f'Current output : {\"\".join(output)} | Input character : ')\n%TABarray[pointer] = 0 if value == '' else (int(value[1:]) if value.startswith('\\\\') else ord(value[0]))",
+    ',': "%TABvalue = input(f'Current output : {\"\".join(output)} | Input character : ')\n%TABarray[pointer] = 0 if value == '' else (int(value[1:]) if value.startswith('\\\\') and value[1:].isnumeric() else ord(value[0]))",
     '[': '%TAB\n%TABwhile array[pointer] > 0:',
     ']': '%TAB'
 
