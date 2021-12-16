@@ -14,6 +14,14 @@ Additional arguments can be used :
 
 The Python code can then be run as any Python program.
 
+## Inputs
+
+When a Python program made using this script asks for an input, it can be entered in three different ways :
+ - An empty input will be considered as a 0 ;
+ - An input containing a number preceded by a `\` will use this number ;
+ - In any other case, the input will be the ASCII code of the first character of the input.
+
+
 # 'Hello world' example
 
 Input brainfuck code :
