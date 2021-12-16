@@ -5,405 +5,405 @@ array = [0] * ARRAY_LENGTH
 pointer = 0
 output = []
 
-array[pointer] = (array[pointer] - 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+array[pointer] = CELL_MAX_VALUE - 1 if array[pointer] == 0 else array[pointer] - 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
 
 while array[pointer] > 0:
     
     while array[pointer] > 0:
-        pointer = (pointer + 1) % ARRAY_LENGTH
-        pointer = (pointer + 1) % ARRAY_LENGTH
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+        pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+        pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
         
         while array[pointer] > 0:
-            pointer = (pointer + 1) % ARRAY_LENGTH
+            pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
             
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        pointer = (pointer + 1) % ARRAY_LENGTH
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
         
         while array[pointer] > 0:
-            pointer = (pointer - 1) % ARRAY_LENGTH
+            pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
             
-        pointer = (pointer - 1) % ARRAY_LENGTH
-        array[pointer] = (array[pointer] - 1) % CELL_MAX_VALUE
+        pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
+        array[pointer] = CELL_MAX_VALUE - 1 if array[pointer] == 0 else array[pointer] - 1
         
-    pointer = (pointer + 1) % ARRAY_LENGTH
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+    pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
     
     while array[pointer] > 0:
-        pointer = (pointer + 1) % ARRAY_LENGTH
+        pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
         
-    pointer = (pointer - 1) % ARRAY_LENGTH
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    pointer = (pointer - 1) % ARRAY_LENGTH
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+    pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
     
     while array[pointer] > 0:
-        pointer = (pointer - 1) % ARRAY_LENGTH
+        pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
         
-    pointer = (pointer - 1) % ARRAY_LENGTH
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+    pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
     
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
 
 while array[pointer] > 0:
-    pointer = (pointer + 1) % ARRAY_LENGTH
+    pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
     
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-pointer = (pointer + 1) % ARRAY_LENGTH
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
 
 while array[pointer] > 0:
     
     while array[pointer] > 0:
-        pointer = (pointer - 1) % ARRAY_LENGTH
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-        pointer = (pointer + 1) % ARRAY_LENGTH
-        array[pointer] = (array[pointer] - 1) % CELL_MAX_VALUE
+        pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+        pointer = 0 if pointer == ARRAY_LENGTH - 1 else pointer + 1
+        array[pointer] = CELL_MAX_VALUE - 1 if array[pointer] == 0 else array[pointer] - 1
         
-    pointer = (pointer - 1) % ARRAY_LENGTH
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
-    array[pointer] = (array[pointer] + 1) % CELL_MAX_VALUE
+    pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
+    array[pointer] = 0 if array[pointer] == CELL_MAX_VALUE - 1 else array[pointer] + 1
     output.append(chr(array[pointer]))
-    pointer = (pointer - 1) % ARRAY_LENGTH
+    pointer = ARRAY_LENGTH - 1 if pointer == 0 else pointer - 1
     
 
 print(''.join(output))
