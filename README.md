@@ -1,6 +1,6 @@
 # Brainfuck 2 Python
 
-This Python scripts convert a brainfuck code into an equivalent Python code. To use it, just run it with the BF code as an argument :
+This Python scripts converts a Brainfuck code into an equivalent Python code. To use it, just run it with the BF code as an argument :
 
 ```
 python3 bf2py.py source_code.bf
@@ -8,7 +8,7 @@ python3 bf2py.py source_code.bf
 
 Additional arguments can be used :
  - `-l` (or `--arraylength`) : set the length of the array used by the program. Default value is 30000.
- - `-s` (or `--cellsize`) : set the size (in bits) of each cell of the array. Can be any integer, does not need to be a power of 2. Default value is 8.
+ - `-s` (or `--cellsize`) : set the size (in bytes) of each cell of the array. Can be any integer, does not need to be a power of 2. Default value is 8.
  - `-i` (or `--indentation`) : set the size (in spaces) of indentation to use for the Python code. Default value is 4.
  - `-o` (or `--outputpath`) : set the path of the file containing the Python code. Default value is BF file path with a `.py` extension.
 
@@ -22,9 +22,9 @@ When a Python program made using this script asks for an input, it can be entere
  - In any other case, the input will be the ASCII code of the first character of the input.
 
 
-# 'Hello world' example
+## 'Hello world' example
 
-Input brainfuck code :
+Input Brainfuck code :
 ```brainfuck
 ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 ```

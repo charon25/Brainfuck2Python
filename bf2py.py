@@ -5,7 +5,7 @@ import sys
 parser = argparse.ArgumentParser()
 parser.add_argument('filepath', help='Path to the brainfuck file.')
 parser.add_argument('-l', '--arraylength', help='Length of the memory array. Defaults to 30000.', default='30000')
-parser.add_argument('-s', '--cellsize', help='Size of a memory cells in bits. Defaults to 8.', default='8')
+parser.add_argument('-s', '--cellsize', help='Size of a memory cell in bits. Defaults to 8.', default='8')
 parser.add_argument('-i', '--indentation', help='Number of spaces in each indentation. Defaults to 4.', default='4')
 parser.add_argument('-o', '--outputpath', help='Path of the output Python file. Defaults to the same as the brainfuck file with a ".py" extension.', default='_')
 args = parser.parse_args()
